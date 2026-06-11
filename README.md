@@ -39,18 +39,3 @@ The session also situates this work in a current crisis: as of 2026, major news 
 └── README.md
 ```
 
----
-
-## Data provenance
-
-**Television coverage data**  
-Source: [GDELT Television Explorer](https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&t=summary)  
-Underlying archive: [Internet Archive Television News Archive](https://archive.org/details/tv)  
-Metric: percentage of monitored airtime (15-second intervals) matching the keyword  
-Stations: ALJAZ, BBCNEWS, BLOOMBERG, CNN, CSPAN, DW, FOXNEWS, RT  
-Period: December 2019 – October 2024 | Downloaded: June 2026  
-
-**Epidemiological data**  
-Source: [Our World in Data — COVID-19 deaths per million](https://ourworldindata.org/covid-deaths)  
-Original source: WHO / Johns Hopkins University  
-Geography: United States  
