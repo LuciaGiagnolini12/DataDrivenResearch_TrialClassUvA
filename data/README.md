@@ -1,8 +1,3 @@
-Fammi leggere i file per darti info precise.Perfetto — ho tutto. Ecco il README dei dati con le descrizioni complete:
-
----
-
-```markdown
 # Data
 
 This folder contains the datasets used in the session notebook.
@@ -71,4 +66,3 @@ This dataset is included not to measure television coverage, but to provide an i
 - The station selection intentionally includes broadcasters from outside the Anglo-American context — Al Jazeera (Qatar), Deutsche Welle (Germany), RT (Russia) — to allow limited comparative analysis. However, these stations have different editorial mandates, different audience bases, and different relationships to the events covered. They should not be treated as equivalent data points without accounting for those differences
 - The datasets in this folder come from different sources, collected for different purposes, using different methodologies. Cross-source comparison is valid only when the differences between sources are made explicit and the claims are scoped accordingly
 - As [Henrich, Heine and Norenzayan argued in 2010](https://doi.org/10.1038/466029a): most people are not WEIRD. Neither are most media systems. Findings from this archive describe a specific, geographically and linguistically situated slice of global media production
-```
