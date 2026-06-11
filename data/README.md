@@ -24,13 +24,15 @@ A value of `0.0` means the keyword did not appear in any monitored caption for t
 
 ### Files
 
+
+The three files represent three different queries on the same underlying archive, queried with different keywords, designed to be used in sequence. Each query returns a different slice of the same phenomenon — pandemic-related television coverage.
+
 | File | Query | Peak value | Notes |
 |---|---|---|---|
 | `results-corona.csv` | `coronavirus` | 11.05% (BBC News, March 2020) | Dominant term in early 2020; declines as terminology shifts |
 | `results-covid.csv` | `covid` | 6.11% (CNN, April 2021) | Takes over from late 2020 onwards |
 | `results-coronaOrCovid.csv` | `coronavirus OR covid` | 13.94% (BBC News, March 2020) | Combined query — most complete picture of total coverage |
 
-These three files come from the same underlying archive and the same GDELT interface, queried with different keywords. They are intended to be read in sequence: the shift from `results-corona.csv` to `results-covid.csv` illustrates the operationalisation problem — the terminology changed, not the coverage.
 
 ---
 
@@ -50,7 +52,7 @@ Period: March 2020 – May 2026
 | `Day` | `YYYY-MM-DD` | Date |
 | `New deaths (per 1M)` | float | Daily confirmed COVID-19 deaths per million people |
 
-This dataset is included not to measure television coverage, but to provide an independent reference point from a different source, institution, and methodology. It enables cross-source comparison: where do the two datasets diverge, and what might explain that divergence?
+This dataset is included not to measure television coverage, but to provide an independent reference point of a related phenomenon from a different source, institution, and methodology. It enables cross-source comparison.
 
 ---
 
