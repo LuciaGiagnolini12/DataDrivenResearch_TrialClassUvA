@@ -1,4 +1,3 @@
-```markdown
 # Data
 
 This folder contains the datasets used in the session notebook.
@@ -45,5 +44,4 @@ Period: March 2020 – May 2026
 - Coverage reflects the scope of Internet Archive's monitoring infrastructure at the time of data collection
 - The station selection intentionally includes broadcasters from outside the Anglo-American context — Al Jazeera (Qatar), Deutsche Welle (Germany), RT (Russia) — to allow limited comparative analysis. However, these stations have different editorial mandates, different audience bases, and different relationships to the events covered. They should not be treated as equivalent data points without accounting for those differences
 - The datasets in this folder come from different sources, collected for different purposes, using different methodologies. Cross-source comparison is valid only when the differences between sources are made explicit and the claims are scoped accordingly
-- As Henrich, Heine and Norenzayan argued in 2010: most people are not WEIRD. Neither are most media systems. Findings from this archive describe a specific, geographically and linguistically situated slice of global media production
-```
+- As [Henrich, Heine and Norenzayan argued in 2010](https://doi.org/10.1038/466029a): most people are not WEIRD. Neither are most media systems. Findings from this archive describe a specific, geographically and linguistically situated slice of global media production
