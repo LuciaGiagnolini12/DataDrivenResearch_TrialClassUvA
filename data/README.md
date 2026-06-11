@@ -8,14 +8,11 @@ This folder contains the datasets used in the session notebook.
 
 Source: [GDELT Television Explorer](https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&t=summary)  
 Underlying archive: [Internet Archive Television News Archive](https://archive.org/details/tv)  
-Exported via: GDELT Volume Timeline — Export → CSV  
 Stations: Al Jazeera (ALJAZ), BBC News (BBCNEWS), Bloomberg (BLOOMBERG), CNN (CNN), C-SPAN (CSPAN), Deutsche Welle (DW), Fox News (FOXNEWS), RT (RT)  
 Period: December 2019 – October 2024  
 Downloaded: June 2026  
 
-### File structure
-
-Each file has 472 rows and 3 columns:
+Each file derives from a keyword search on the GDELT Television Explorer, querying the Internet Archive Television News Archive (`d=iatv`). The archive indexes television broadcasts through their closed captions — the text stream legally required of all US broadcasters, produced by human stenographers in real time and attached to every broadcast. GDELT makes this index searchable and returns monthly keyword frequency across selected stations. Results were exported via the Volume Timeline → Export → CSV function. Each file has 3 columns:
 
 | Column | Format | Description |
 |---|---|---|
@@ -43,8 +40,6 @@ Source: [Our World in Data — COVID-19 deaths per million](https://ourworldinda
 Original source: WHO / Johns Hopkins University  
 Geography: United States only  
 Period: March 2020 – May 2026  
-
-### File structure
 
 `daily-new-confirmed-covid-19-deaths-per-million-people.csv` has 2,269 rows and 4 columns:
 
