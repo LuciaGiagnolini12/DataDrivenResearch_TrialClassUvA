@@ -32,10 +32,12 @@ The session also situates this work in a current crisis: as of 2026, major news 
 │   ├── results-corona.csv
 │   ├── results-covid.csv
 │   ├── results-coronaOrCovid.csv
-│   └── daily-new-confirmed-covid-19-deaths-per-million-people.csv
+│   ├── daily-new-confirmed-covid-19-deaths-per-million-people.csv
+│   └── README.md
 ├── slides/
 │   └── lecture_slides.pdf
 ├── bibliography.md
 └── README.md
 ```
+
 
