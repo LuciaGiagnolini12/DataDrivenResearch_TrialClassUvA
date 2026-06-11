@@ -22,3 +22,16 @@ The session also situates this work in a current crisis: as of 2026, major news 
 ---
 
 ## Repository structure
+├── notebook/
+│   ├── DH_TV_News_Analysis.ipynb
+│   ├── DH_TV_News_Analysis.pdf
+│   └── README.md
+├── data/
+│   ├── results-corona.csv
+│   ├── results-covid.csv
+│   ├── results-coronaOrCovid.csv
+│   └── daily-new-confirmed-covid-19-deaths-per-million-people.csv
+├── slides/
+│   └── lecture_slides.pdf
+├── bibliography.md
+└── README.md
