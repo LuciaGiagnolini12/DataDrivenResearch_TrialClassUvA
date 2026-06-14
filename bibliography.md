@@ -34,7 +34,7 @@ https://doi.org/10.1007/s10502-024-09443-z
 
 ---
 
-## GDELT methodology and applications
+## GDELT applications
 
 **GDELT Project — "Television as Data: Opening TV News for Deep Analysis and New Forms of Interactive Search" (2022).** Library as Laboratory series, session 4, Internet Archive.  
 Session recap: https://blog.archive.org/2022/04/25/library-as-laboratory-opening-television-news-for-deep-analysis-and-new-forms-of-interactive-search/  
