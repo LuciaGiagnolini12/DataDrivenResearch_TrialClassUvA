@@ -97,8 +97,6 @@ https://pandas.pydata.org
 **matplotlib**  
 https://matplotlib.org
 
-**Data visualisation**
-
 **Observable**  
 https://observablehq.com
 
