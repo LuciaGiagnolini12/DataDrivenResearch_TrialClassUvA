@@ -34,7 +34,7 @@ https://doi.org/10.1007/s10502-024-09443-z
 
 ---
 
-## GDELT applications
+## GDELT methodology and applications
 
 **GDELT Project — "Television as Data: Opening TV News for Deep Analysis and New Forms of Interactive Search" (2022).** Library as Laboratory series, session 4, Internet Archive.  
 Session recap: https://blog.archive.org/2022/04/25/library-as-laboratory-opening-television-news-for-deep-analysis-and-new-forms-of-interactive-search/  
@@ -69,21 +69,41 @@ https://doi.org/10.1038/s41598-025-11794-1
 
 ## News coverage of the 2026 Wayback Machine crisis
 
-**Sircar, A. (2026, April).** *Forbes*. [Article on publishers blocking Internet Archive crawlers.]
+**Sircar, A. (2026, April 14).** Why major news sites are blocking the Internet Archive's Wayback Machine. *Forbes*.  
+https://www.forbes.com
 
-**Muno, M. (2026, April).** *Deutsche Welle*. [Article on the Wayback Machine crisis.]
+**Muno, M. (2026, April 22).** Digital memory at stake: news outlets block Wayback Machine. *Deutsche Welle*.  
+https://www.dw.com
 
 **Electronic Frontier Foundation.**  
 https://www.eff.org
 
 ---
 
-## Tools
+## Tools and libraries
 
 **Google Colab**  
 https://colab.research.google.com
 
+**Jupyter**  
+https://jupyter.org
+
 **Google Data Studio (Looker Studio)**  
 https://datastudio.google.com/u/0/navigation/reporting
 
-**pandas / matplotlib** — Python libraries used in the accompanying notebook.
+**pandas**  
+https://pandas.pydata.org
+
+**matplotlib**  
+https://matplotlib.org
+
+**Data visualisation**
+
+**Observable**  
+https://observablehq.com
+
+**Datawrapper**  
+https://www.datawrapper.de
+
+**Tableau Public**  
+https://public.tableau.com
